@@ -1,0 +1,20 @@
+{
+  "name": "testjenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mdreame/testjenkins.git"
+  },
+  "keywords": [],
+  "author": "mdreame <1067774901@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mdreame/testjenkins/issues"
+  },
+  "homepage": "https://github.com/Mdreame/testjenkins#readme"
+}
